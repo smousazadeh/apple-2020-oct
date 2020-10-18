@@ -1,11 +1,11 @@
 abcde
 fghijkl
 final line 1
-
+*****
 222 abcde
 222 fghijkl
 222 final line 2
-
+*****
 ##
 # User Database
 # 
@@ -116,4 +116,4 @@ _timed:*:266:266:Time Sync Daemon:/var/db/timed:/usr/bin/false
 _nearbyd:*:268:268:Proximity and Ranging Daemon:/var/db/nearbyd:/usr/bin/false
 _reportmemoryexception:*:269:269:ReportMemoryException:/var/db/reportmemoryexception:/usr/bin/false
 _driverkit:*:270:270:DriverKit:/var/empty:/usr/bin/false
-
+*****
