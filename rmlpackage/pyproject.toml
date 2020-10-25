@@ -5,7 +5,7 @@ description = "Another amazing package that does nothing!"
 authors = ["Reuven Lerner <reuven@lerner.co.il>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.8
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
