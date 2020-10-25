@@ -9,4 +9,4 @@ def hello(name):
     return f'Hello, {name}, from mymod!'
 
 
-def _secret = 'shhh!'
+_secret = 'shhh!'
