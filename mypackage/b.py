@@ -1,7 +1,7 @@
-x = 123
+x = 987
 
-y = [100, 200, 300]
+y = [123, 456, 789]
 
 
 def hello(name):
-    return f'Hello {name} from a!'
+    return f'Hello {name} from b!'
