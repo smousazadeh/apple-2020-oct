@@ -1,5 +1,4 @@
 # __all__ = ['x', 'hello']
-
 __all__ = ['YOU_SHOULD_NEVER_USE_IMPORT_*!']
 
 x = 100
