@@ -14,4 +14,5 @@ def hello(name):
 
 _secret = 'shhh!'
 
-print('Goodbye from mymod!')
+if __name__ == '__main__':
+    print('Goodbye from mymod!')
